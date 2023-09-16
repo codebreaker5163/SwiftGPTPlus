@@ -1,6 +1,6 @@
 # SwiftGPTPlus
 
-SwiftGPTPlus is a Swift package that allows you to easily integrate the OpenAI GPT-3.5 Turbo model, GPT-4 Model with 'Text To Voice' Feature into your Swift applications for natural language processing tasks.
+SwiftGPTPlus is a framework that allows you to easily integrate the OpenAI GPT-3.5 Turbo model, GPT-4 Model with 'Text To Voice' Feature into your Swift applications for natural language processing tasks.
 
 ![SWIFT](https://github.com/codebreaker5163/SwiftGPTPlus/assets/33778814/812bf1da-6afa-4dec-a63a-79bd3a871b46)
 
