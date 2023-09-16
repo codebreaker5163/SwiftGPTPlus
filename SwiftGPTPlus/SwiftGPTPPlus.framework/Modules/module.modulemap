@@ -1,0 +1,11 @@
+framework module SwiftGPTPPlus {
+  umbrella header "SwiftGPTPPlus.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftGPTPPlus.Swift {
+  header "SwiftGPTPPlus-Swift.h"
+  requires objc
+}
